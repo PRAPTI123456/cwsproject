@@ -14,7 +14,7 @@ function App() {
 		},
 		{ id: 2, 
 		name: 'Jeans', 
-		price: 699, 
+		price: 599, 
 		image: 
 'https://i.imgur.com/Z1kCkKD.png'
 		},
